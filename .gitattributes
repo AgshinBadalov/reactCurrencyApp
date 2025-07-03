@@ -2,5 +2,5 @@
 *.jsx linguist-language=JavaScript
 *.js linguist-language=JavaScript
 
-# HTML dosyalarını HTML olarak algıla (isteğe bağlı)
+# HTML dosyalarını HTML olarak algıla 
 *.html linguist-language=HTML
