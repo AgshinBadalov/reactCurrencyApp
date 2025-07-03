@@ -1,13 +1,8 @@
 # JSX ve JS dosyalarını JavaScript olarak algıla
 *.jsx linguist-language=JavaScript
 *.js linguist-language=JavaScript
+*.tsx linguist-language=JavaScript
+*.ts linguist-language=JavaScript
 
 # HTML dosyalarını HTML olarak algıla 
 *.html linguist-language=HTML
-
-*.jsx linguist-language=JavaScript
-*.js linguist-language=JavaScript
-*.tsx linguist-language=JavaScript
-*.ts linguist-language=JavaScript
-*.html linguist-language=HTML
-
