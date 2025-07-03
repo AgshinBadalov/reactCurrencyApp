@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url(images/image7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
